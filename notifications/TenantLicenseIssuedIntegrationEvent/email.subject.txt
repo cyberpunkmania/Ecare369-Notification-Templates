@@ -1,0 +1,1 @@
+Your ECare369 License is Ready — {{LicenseNumber}}
