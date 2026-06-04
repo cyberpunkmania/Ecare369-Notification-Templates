@@ -1,1 +1,1 @@
-Goods Receipt Confirmation — {{GrnNumber}} | {{FacilityName}}
+Goods Receipt Confirmation — {{GrnNumber}} | {{TenantName}}
