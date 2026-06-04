@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="x-apple-disable-message-reformatting" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Delivery Confirmation</title>
+    <!--[if mso]>
+    <noscript>
+        <xml>
+            <o:OfficeDocumentSettings>
+                <o:AllowPNG/>
+                <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+    </noscript>
+    <![endif]-->
+    <style type="text/css">
+        body, table, td, p, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+        table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+        img { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; }
+        body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+        a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; }
+        @media only screen and (max-width: 600px) {
+            .email-container { width: 100% !important; }
+            .mobile-padding { padding-left: 20px !important; padding-right: 20px !important; }
+        }
+    </style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f5f7fa;">
+
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f5f7fa;">
+        <tr>
+            <td align="center" style="padding: 40px 10px;">
+
+                <!-- Email Container — sharp edges, no border-radius -->
+                <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="600" class="email-container" style="max-width: 600px; background-color: #ffffff; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
+
+                    <!-- ========== HEADER SECTION ========== -->
+                    <tr>
+                        <td style="background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%); padding: 40px 40px 35px;" class="mobile-padding">
+
+                            <!-- Logo Row -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding-bottom: 20px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                                            <tr>
+                                                <td style="vertical-align: middle;">
+                                                    <!-- Clipboard / GRN receipt badge icon -->
+                                                    <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <defs>
+                                                            <linearGradient id="grnBg" x1="0%" y1="0%" x2="0%" y2="100%">
+                                                                <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+                                                                <stop offset="100%" style="stop-color:#d1d5db;stop-opacity:1" />
+                                                            </linearGradient>
+                                                        </defs>
+                                                        <rect width="48" height="48" rx="10" fill="url(#grnBg)"/>
+                                                        <!-- Clipboard body -->
+                                                        <rect x="11" y="13" width="26" height="28" rx="2" stroke="#374151" stroke-width="2" fill="none"/>
+                                                        <!-- Clipboard top clip -->
+                                                        <rect x="18" y="9" width="12" height="7" rx="2" stroke="#374151" stroke-width="2" fill="none"/>
+                                                        <!-- Check lines -->
+                                                        <path d="M17 24l3 3 6-6" stroke="#374151" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                                        <path d="M17 33h14" stroke="#374151" stroke-width="1.8" stroke-linecap="round"/>
+                                                    </svg>
+                                                </td>
+                                                <td style="padding-left: 12px; vertical-align: middle;">
+                                                    <span style="font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 26px; font-weight: 700; color: #ffffff; letter-spacing: 0.5px;">ECare369 HMIS</span>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Hero Illustration — goods received / delivery / procurement context -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding-bottom: 20px;">
+                                        <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="background-color: rgba(255,255,255,0.15); padding: 20px 30px;">
+                                            <tr>
+                                                <td align="center">
+                                                    <table role="presentation" cellspacing="0" cellpadding="0" border="0">
+                                                        <tr>
+                                                            <!-- Delivery truck icon -->
+                                                            <td style="padding: 0 10px;">
+                                                                <svg width="50" height="50" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <rect x="1" y="7" width="13" height="11" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                                                                    <path d="M14 9h4l3 4v5h-7V9z" stroke="#ffffff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+                                                                    <circle cx="5.5" cy="18.5" r="1.5" stroke="#ffffff" stroke-width="1.8" fill="none"/>
+                                                                    <circle cx="18.5" cy="18.5" r="1.5" stroke="#ffffff" stroke-width="1.8" fill="none"/>
+                                                                </svg>
+                                                            </td>
+                                                            <!-- Central large checkmark in circle -->
+                                                            <td style="padding: 0 10px;">
+                                                                <svg width="58" height="58" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <circle cx="12" cy="12" r="9" fill="rgba(255,255,255,0.25)" stroke="#ffffff" stroke-width="2"/>
+                                                                    <path d="M8 12l3 3 5-6" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                                                                </svg>
+                                                            </td>
+                                                            <!-- Package / box icon -->
+                                                            <td style="padding: 0 10px;">
+                                                                <svg width="48" height="48" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                    <path d="M12 2L2 7l10 5 10-5-10-5z" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+                                                                    <path d="M2 17l10 5 10-5M2 12l10 5 10-5" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                                                </svg>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Header Text -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center">
+                                        <h1 style="margin: 0 0 8px 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 28px; font-weight: 700; color: #ffffff;">Delivery Confirmation</h1>
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 16px; color: rgba(255,255,255,0.9);">Goods received and recorded</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- ========== MAIN CONTENT ========== -->
+                    <tr>
+                        <td style="background-color: #ffffff; padding: 30px 40px;" class="mobile-padding">
+
+                            <!-- Greeting -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding-bottom: 20px;">
+                                        <p style="margin: 0 0 16px 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 16px; color: #334155;">Dear <strong style="color: #0f172a;">{{SupplierName}}</strong>,</p>
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 15px; color: #475569; line-height: 1.65;">We confirm receipt of your goods at <strong>{{TenantName}}</strong> — <strong>{{BranchName}}</strong>, under GRN <strong>{{GrnNumber}}</strong> processed on <strong>{{ReceivedAt}}</strong>. Please retain this confirmation for your records.</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- GRN Summary Card — left-accent border, sharp edges -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 0 0 24px;">
+                                        <div style="background-color: #f8fafc; border-left: 4px solid #0891b2; padding: 8px 0;">
+                                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; width: 44%; border-bottom: 1px solid #e2e8f0;">Received By</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{TenantName}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; border-bottom: 1px solid #e2e8f0;">Branch</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{BranchName}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; width: 44%; border-bottom: 1px solid #e2e8f0;">GRN Reference</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{GrnNumber}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; border-bottom: 1px solid #e2e8f0;">Date Received</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{ReceivedAt}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; border-bottom: 1px solid #e2e8f0;">Supplier</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{SupplierName}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; border-bottom: 1px solid #e2e8f0;">Supplier Tax PIN</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{SupplierTaxPin}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; border-bottom: 1px solid #e2e8f0;">Total Line Items</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #0f172a; font-weight: 600; border-bottom: 1px solid #e2e8f0;">{{LineCount}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding: 10px 24px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b;">Total Received Value</td>
+                                                    <td style="padding: 10px 24px; font-family: 'Courier New', monospace; font-size: 14px; color: #0891b2; font-weight: 700;">{{Currency}} {{TotalValue}}</td>
+                                                </tr>
+                                            </table>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Section heading — Goods Received Details -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 0 0 14px;">
+                                        <p style="margin: 0 0 8px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 15px; font-weight: 700; color: #0f172a;">Goods Received Details</p>
+                                        <div style="border-bottom: 2px solid #0891b2;"></div>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Line Items — injected by BuildLineItemsHtml() -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 0 0 4px;">
+                                        {{LineItemsHtml}}
+                                        <!--
+                                          ↑ Replaced at render time with the <table> built by BuildLineItemsHtml().
+                                          Columns: # | Description | Item Code | Category | Department
+                                                   | Qty | Unit Cost | Line Total | Batch No. | Expiry Date
+                                          To change column layout → edit BuildLineItemsHtml() in the mapper.
+                                          To change email chrome  → edit this file.
+                                        -->
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Grand Total pill — flat cyan button style, sharp edges -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="right" style="padding: 14px 0 28px;">
+                                        <span style="display: inline-block; background-color: #0891b2; color: #ffffff; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; font-weight: 700; padding: 10px 24px;">Total: {{Currency}} {{TotalValue}}</span>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Divider -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding: 0 0 20px;">
+                                        <div style="border-top: 1px solid #e2e8f0;"></div>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Closing paragraphs -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td style="padding-bottom: 14px;">
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; color: #475569; line-height: 1.6;">For any queries, contact our procurement department quoting GRN reference <strong>{{GrnNumber}}</strong>.</p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="padding-bottom: 20px;">
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; color: #475569; line-height: 1.6;">Thank you for your continued partnership with ECare Health.</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- Signature -->
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td>
+                                        <p style="margin: 0 0 5px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 15px; color: #475569;">Warm regards,</p>
+                                        <p style="margin: 0 0 3px; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 17px; font-weight: 600; color: #0891b2; font-style: italic;">Procurement Team</p>
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b;">{{TenantName}} — {{BranchName}}</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- ========== FOOTER SECTION ========== -->
+                    <tr>
+                        <td style="padding: 25px 40px; background-color: #f8fafc; text-align: center;" class="mobile-padding">
+
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding-bottom: 12px;">
+                                        <p style="margin: 0;">
+                                            <a href="#" style="color: #0891b2; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; margin: 0 12px;">Call Us</a>
+                                            <span style="color: #cbd5e1;">|</span>
+                                            <a href="#" style="color: #0891b2; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; margin: 0 12px;">Email Us</a>
+                                            <span style="color: #cbd5e1;">|</span>
+                                            <a href="#" style="color: #0891b2; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; margin: 0 12px;">Website</a>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding: 8px 0;">
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 13px; color: #64748b; line-height: 1.5;">
+                                            {{HeadquartersAddress}}<br/>
+                                            License: {{LicenseNumber}}
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding: 20px 0 10px;">
+                                        <p style="margin: 0;">
+                                            <a href="#" style="color: #64748b; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 12px; margin: 0 8px;">Terms</a>
+                                            <span style="color: #cbd5e1;">•</span>
+                                            <a href="#" style="color: #64748b; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 12px; margin: 0 8px;">Privacy</a>
+                                            <span style="color: #cbd5e1;">•</span>
+                                            <a href="#" style="color: #64748b; text-decoration: none; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 12px; margin: 0 8px;">Unsubscribe</a>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center" style="padding-bottom: 8px;">
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 12px; color: #94a3b8;">Automated notification — please do not reply to this email.</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+                                <tr>
+                                    <td align="center">
+                                        <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 12px; color: #94a3b8;">© {{Year}} ECare HMIS. All rights reserved.</p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+
+                    <!-- Bottom Banner -->
+                    <tr>
+                        <td style="background: linear-gradient(135deg, #0891b2 0%, #06b6d4 100%); padding: 25px 40px; text-align: center;">
+                            <p style="margin: 0; font-family: 'Segoe UI', Tahoma, Arial, sans-serif; font-size: 14px; font-weight: 500; color: rgba(255,255,255,0.95);">ECare369 HMIS — Streamlined procurement, smart inventory, and end-to-end supply chain management for modern healthcare facilities.</p>
+                        </td>
+                    </tr>
+
+                </table>
+
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
