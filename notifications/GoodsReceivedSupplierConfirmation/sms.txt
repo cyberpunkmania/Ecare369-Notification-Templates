@@ -1,0 +1,1 @@
+ Dear {{SupplierName}}, your delivery to {{FacilityName}} ({{BranchName}}) has been received. {{SmsSummary}} on {{ReceivedAt}}. GRN: {{GrnNumber}}.
