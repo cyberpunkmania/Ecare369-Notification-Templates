@@ -1,0 +1,1 @@
+ Dear {{SupplierName}}, your delivery to {{TenantName}} ({{BranchName}}) has been received. {{SmsSummary}} on {{ReceivedAt}}. GRN: {{GrnNumber}}.{{LineItemsText}} TOTAL: {{Currency}}{{TotalValue}}. Thank you.

@@ -1,0 +1,1 @@
+Action Required: Dedicated database provisioned for {{TenantName}} ({{TenantCode}})

@@ -1,0 +1,12 @@
+ECare369 HMIS
+
+Hi {{TenantName}}, your tenant account has been created.
+
+Tenant Code: {{TenantCode}}
+OTP Code: {{OtpCode}}
+Expires: {{ExpiresAt}}
+
+Activate your account here:
+{{ActivationUrl}}
+
+Do not share this code with anyone. For support contact support@ecare369.com

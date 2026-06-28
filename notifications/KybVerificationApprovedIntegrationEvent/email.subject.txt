@@ -1,0 +1,1 @@
+KYB Approved — Your {{TenantName}} Facility is Live
